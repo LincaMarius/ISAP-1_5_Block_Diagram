@@ -25,14 +25,17 @@ The Block Diagram of the ISAP-1 Computer Central Processing Unit is shown in the
 
 ![ Figure 2 ](/Pictures/Figure2.png)
 
-The Block Diagram of the ISAP-1 Computer Control Unit is shown in the following figure:
+### 8-bit Program Counter Implementation
+The first condition that must be met by the ISAP-1.5 computer structure is to have an 8-bit Program Counter.
+
+For this purpose, the Program Counter is implemented on 8 bits. Thus, when the EP control signal is activated, the Program Counter will write an 8-bit numerical value to the Data Bus.
+
+The Address Register is also 8 bits and by default the Address Bus will be 8 bits.
+
+The ISAP-1.5 Central Processing Unit can directly address 2^8 = 256 addresses.
+
+The second condition is that the instructions are encoded on 8 bits. So the operand is no longer part of the instruction so the Instruction Register no longer has to put data on the Data Bus, as a result we have also eliminated the EI control signal.
+
+Following these changes, the Block Diagram of the ISAP-1.5 Computer Central Processing Unit is presented as follows:
 
 ![ Figure 3 ](/Pictures/Figure3.png)
-
-The Block Diagram of the Binary Display of the ISAP-1 Computer is shown in the following figure:
-
-![ Figure 4 ](/Pictures/Figure4.png)
-
-The Block Diagram of the Memory Subsystem of the ISAP-1 Computer is shown in the following figure:
-
-![ Figure 5 ](/Pictures/Figure5.png)
