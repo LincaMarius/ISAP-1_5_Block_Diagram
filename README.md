@@ -32,3 +32,7 @@ The Block Diagram of the ISAP-1 Computer Control Unit is shown in the following 
 The Block Diagram of the Binary Display of the ISAP-1 Computer is shown in the following figure:
 
 ![ Figure 4 ](/Pictures/Figure4.png)
+
+The Block Diagram of the Memory Subsystem of the ISAP-1 Computer is shown in the following figure:
+
+![ Figure 5 ](/Pictures/Figure5.png)
