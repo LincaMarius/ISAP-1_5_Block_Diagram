@@ -44,3 +44,9 @@ Following these changes, the Block Diagram of the ISAP-1.5 Computer Central Proc
 The Block Diagram of the ISAP-1 Computer Control Unit is shown in the following figure:
 
 ![ Figure 4 ](/Pictures/Figure4.png)
+
+From figure 3 we can see that the Instruction Register presents 8 bits of data to the Control Unit.
+
+Thus the Instruction Decoder must transmit 256 lines to the Control Matrix. This greatly complicates the implementation of the Control Matrix.
+
+The solution is for the instruction decoding to be done directly by the Control Matrix.
