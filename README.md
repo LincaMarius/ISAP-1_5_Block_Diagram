@@ -39,3 +39,8 @@ The second condition is that the instructions are encoded on 8 bits. So the oper
 Following these changes, the Block Diagram of the ISAP-1.5 Computer Central Processing Unit is presented as follows:
 
 ![ Figure 3 ](/Pictures/Figure3.png)
+
+### Control Unit Implementation
+The Block Diagram of the ISAP-1 Computer Control Unit is shown in the following figure:
+
+![ Figure 4 ](/Pictures/Figure4.png)
