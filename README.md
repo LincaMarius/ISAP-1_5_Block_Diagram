@@ -20,3 +20,8 @@ The second condition is that the Program Counter remains 8 bits.
 The Block Diagram of the ISAP-1 Computer is shown in the following figure:
 
 ![ Figure 1 ](/Pictures/Figure1.png)
+
+The Block Diagram of the ISAP-1 Computer Central Processing Unit is shown in the following figure:
+
+![ Figure 2 ](/Pictures/Figure2.png)
+
