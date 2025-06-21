@@ -25,3 +25,6 @@ The Block Diagram of the ISAP-1 Computer Central Processing Unit is shown in the
 
 ![ Figure 2 ](/Pictures/Figure2.png)
 
+The Block Diagram of the ISAP-1 Computer Control Unit is shown in the following figure:
+
+![ Figure 3 ](/Pictures/Figure3.png)
